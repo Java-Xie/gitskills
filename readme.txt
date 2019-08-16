@@ -10,4 +10,8 @@ Git dev测试分支
 Creating a new branch is quick & simple.
 =======
 Creating a new branch is quick AND simple.
+<<<<<<< HEAD
 >>>>>>> AND simple
+=======
+新分支 dev
+>>>>>>> dev新分支
